@@ -1,1 +1,1 @@
-# Footer for the website
+# Footer for the all websites
